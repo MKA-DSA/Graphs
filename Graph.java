@@ -11,7 +11,7 @@ public class Graph {
 					{1,0,0,1,0,1},
 					{0,0,1,0,1,0}};
 		graph = g;
-		numNodes = graph.length();
+		numNodes = graph.length;
 	}
 	public void breadthFirst() {}
 	public void depthFirst() {}
